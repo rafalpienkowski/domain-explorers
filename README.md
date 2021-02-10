@@ -36,10 +36,6 @@ Podczas pierwszej iteracji rozpoznaliśmy wstępnie domenę biznesową skrzynkom
 
 ![Przepełniony skrzynkomat](./assets/locker_overloaded_.jpg)
 
-#### Przekazanie odbioru przesyłki
-
-![Przekazanie odbioru przesyłki](./assets/handle_over_the_parcel.jpg)
-
 #### Odbiór przesyłki ze skrzynkomatu
 
 ![Odbiór przesyłki ze skrzynkomatu](./assets/pick_up_from_the_locker.jpg)
@@ -54,7 +50,7 @@ Podczas pierwszej iteracji rozpoznaliśmy wstępnie domenę biznesową skrzynkom
 
 
   
-Link do [Miro](https://miro.com/app/board/o9J_lUjTEuk=/)
+W cely wygoniejszej analizy zachęcam do skorzystania z Miro.  Link do [boardu](https://miro.com/app/board/o9J_lUjTEuk=/)
 
 
 #### Wersja finalna
@@ -63,4 +59,4 @@ TBD
 
 #### Licencja
 
-Ten projekt objęty jest licencją Apache 2.0. Kopiowanie i rozpowszechnianie kodu jest dozwolone (a wręcz wskazane)
+Ten projekt objęty jest licencją Apache 2.0. Kopiowanie i rozpowszechnianie kodu jest dozwolone (a wręcz wskazane).
